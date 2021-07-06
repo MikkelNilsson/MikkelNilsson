@@ -2,7 +2,7 @@
 
 I see that you have wandered into the jungle, that is my GitHub. 
 
-⛔ I just want to say, that all code found in these repositories are to be used with caution. ⛔ 
+⛔ I just want to say, that all code found in these repositories are to be used at your own discretion. 😉
 
 ▶ Feel free to contact me! (Especially with job offers 🎉)
 
